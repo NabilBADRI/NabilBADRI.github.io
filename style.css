@@ -324,7 +324,7 @@ p {
 	color: white;
 	text-align: left;
 }
-/* End Services Section */
+/* End publications Section */
 
 /* news section */
 #news .news {
@@ -700,4 +700,9 @@ p {
 		margin: 1.5%;
 	}
 }
+.image-reduite {
+  width: 50%; /* ajustez la largeur selon vos besoins */
+  height: auto; /* permet à la hauteur de s'ajuster proportionnellement à la largeur */
+}
+
 /* End  Media Query For Desktop */
